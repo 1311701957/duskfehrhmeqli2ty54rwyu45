@@ -1,4 +1,4 @@
-local image = {
+local initialize = {
     ["awp"] = {
         110 *0.8,
         32 *0.8,
