@@ -1,4 +1,4 @@
-local a = {
+local image.svg = {
     ["awp"] = {
         110 *0.8,
         32 *0.8,
